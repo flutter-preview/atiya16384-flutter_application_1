@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357879728883",
+    "project_id": "menopause-app",
+    "storage_bucket": "menopause-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357879728883:android:bb3e77f1ee1d6fb7ccc586",
+        "android_client_info": {
+          "package_name": "com.atiyamahboob.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357879728883-htedej2i02oupciosoeiq1stcfcqbs3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBil1eJHYaE7gOdWz7kB6CINpb4yzi6UaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357879728883-htedej2i02oupciosoeiq1stcfcqbs3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
